@@ -1,0 +1,10 @@
+.root {
+  display: flex;
+  gap: 2rem;
+  padding: 12px;
+}
+
+.image {
+  width: 400px;
+  height: 400px;
+}
